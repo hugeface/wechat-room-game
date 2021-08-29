@@ -11,7 +11,7 @@ import json
 import requests
 import itchat
 
-KEY = '1f9ea5179ab044509490e56c948d7331' # regitster your own KEY here, web site http://www.tuling123.com/member/robot/index.jhtml
+KEY = '' # regitster your own KEY here, web site http://www.tuling123.com/member/robot/index.jhtml
 
 game_dict = {}
 
